@@ -1,0 +1,12 @@
+db.questions2.update(
+{"Subject"
+:
+"বঙ্গবন্ধু শেখ মুজিবুর রহমান"},
+{$set: { "category" : parseInt(1)}});
+
+
+db.questions2.update(
+{"category"
+:
+"1"},
+{$set: { "category" : parseInt(1)}});

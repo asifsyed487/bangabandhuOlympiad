@@ -1,0 +1,5 @@
+export const LOGGED_IN = "LOGGED_IN";
+export const ADMIN_LOGGED_IN = "ADMIN_LOGGED_IN";
+export const GET_CHALLENGE = "GET_CHALLENGE";
+export const SET_NOTIFICATION = "SET_NOTIFICATION";
+export const ONLINE_USERS = "ONLINE_USERS";

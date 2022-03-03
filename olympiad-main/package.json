@@ -1,0 +1,35 @@
+{
+  "name": "quizgame",
+  "version": "1.0.0",
+  "description": "educational game",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "nodemon app.js"
+  },
+  "author": "sadman",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "express-jwt": "^5.3.1",
+    "firebase-admin": "^9.4.2",
+    "graphql": "^15.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.28",
+    "mongoose": "^5.8.11",
+    "nodemailer": "^6.4.17",
+    "parse-redis-url": "0.0.1",
+    "redis": "^0.12.1",
+    "socket.io": "^2.4.1",
+    "socket.io-redis": "^5.4.0",
+    "sticky-session": "^0.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.7"
+  }
+}

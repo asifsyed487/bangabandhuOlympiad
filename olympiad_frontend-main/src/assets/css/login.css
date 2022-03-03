@@ -1,0 +1,57 @@
+.input-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 15px;
+}
+
+.input {
+  width: 80%;
+  height: 50px;
+  padding-left: 20px;
+  font-size: 18px;
+  border-top: transparent;
+  border-right: transparent;
+  border-radius: 5px;
+  border-left: transparent;
+  outline: none;
+}
+
+.input:focus {
+  border-bottom: 1px solid #6163ff;
+}
+
+::placeholder {
+  transition: 0.3s ease;
+}
+
+.input:focus::placeholder {
+  opacity: 0.5;
+}
+
+.logincontainer {
+  background-color: white;
+  border-radius: 15px;
+}
+.imglogin {
+  border-radius: 15px;
+}
+.errorlogin {
+  color: #ec3514;
+  text-align: center;
+}
+.buttonlogin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  padding-bottom: 20px;
+  flex-direction: column;
+}
+.signcontainer {
+  background-color: white;
+  border-radius: 15px;
+}
+.formwidth {
+  min-width: 150px;
+}

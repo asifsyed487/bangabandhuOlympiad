@@ -1,0 +1,8 @@
+.centerdiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.centertext {
+  text-align: center;
+}

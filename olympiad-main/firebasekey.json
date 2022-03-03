@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bangabandhu-olympiad",
+  "private_key_id": "96a9a17be1adc4aaf0edbcfd0e938e893d171633",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDW/HWhcW0hW7CH\nnHkOVBFogug3YXijZbRW3wEnIUtcR5gidz1xuiK4irKHIm/j++Kj9gvirTW9JFdH\nGsUVAHB+YYp0SQta+K+b70kKuabKTHtX6aIZOtzCVrUc374Rfjv1o91pANMGK2xp\nRRfS42YNieDETqLrDAKdqOYjIzS7oxwNqJ/M5FkLI7iyvskktP/aZrAw9m2ko1w6\nJkCUZGv60mj6V37WXuvCFxNhxa80JErW1dYJM76cxnqVgEqo3TyhaSrcMCfOQIoW\n5GCgRjHmnNGauAUb9Cp5TOzJsP1cjzd9JBlr5qwo+lpxVyMYfJevqpjyz3J/0XEW\nerWBpfXTAgMBAAECggEAF1GN3sODT0V3OdZeiQ/UTY45atxfLfX3oB6TLO/fETTQ\nyxg86WuDnZmpsJ+rHELze85RzrXz6L6a2uML8nG4QfUJhAByQ11LCvJi7U9iyHmQ\nPWJhizQHwuqNvYKFRrd3AHdUKjIFMZufKDHu2hiBNsG4SAKxiCYm2Hv77l7AtwNQ\nrXCRtW8nQMevlH6KyGzvYiO0f9ldRuN+YQy04qeaRbNsx7iXYpeJ+y+RZMMagYgj\nKMxKxvvhqyObAOSn9c2+V9bJRLBisLe3iGaqBQIkOpJCusCMQfhGLdph540ywQXk\narNMHX8NBOwhHXw6HC5UTyygWw6WjXH9gKOe4HY7KQKBgQD3tETgRE+JJHRyjPuS\nC7T/ya7/tMpl3MwsnzzD84xD3KZXV6LLz5iV3w2f4NtQKwd9rr+AuCrWDzCSrmwi\nNwvYbH38aVQ91RYSqhzQAm1c+hG9WobJkoPGaF/pBkDxyUS3UCd2YArLjU5OLLjn\nJq4Zvv2my5lM+Eq0jKtPMhdYCQKBgQDeL61tBvBMBekLVNhvXpZzzyJfoicgyF77\ncDu5sZdIEZQTZRwgHzZjVGefdr3r16lDmz3D2WSliB6kmA9bAjSjep4b+Yr/IJqM\nc9Ajj/VGDUeY9YJHrDVp8x9n6ygUbThDHKpIAyfdXiyT6GA75NN2TiHYAD9KPmHF\nUiW0a6S9+wKBgQCpRgXzhHsd602womugqGNukXMHx5Kw/ayBqegquJrYHUeHVJop\n0ZoigSWcZls5c85Qs0SnQDP1yLeW5Z972kY8BhgqkAhDoQTOiHXcKGx4J2RMFDsc\nMQXgZp90bROgp7xP0XTGTmfSJqSmg6VwQVykt4I7o9MFaIAU1jSTkFWnkQKBgQC4\nG2eoPSSmygr2YcLKXeVrZwrDldi4WHAkBzbmQxrpE+/QNmsczuBBZHJM95aeM2DF\nbYC7pYq5g1Zo6rtmnShDAlq7MYcUqs6FbX3dye7isiROwbjHbRIBjfzLHldivbHu\nInWTIFJLIzrrAJWla5IxqMJwepv3CEP5vn0RyFSFOwKBgBI0qB7dsnQ3CPAs5Pj9\nBxL60BQsv56wEah+VA99N5miA+nh546ZIFmKEh6xI7si+MMfx25hhgGV+bJhdBy5\nUs0A7Jas/xl7yB86iQN9u8GnzU/H7lcduIPYWrYIdTUbweEsYVFJR8tgSa09ctij\nkl1HZxeFAmIJxEIAAmqRCV83\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-l0tdv@bangabandhu-olympiad.iam.gserviceaccount.com",
+  "client_id": "102451958857410520276",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-l0tdv%40bangabandhu-olympiad.iam.gserviceaccount.com"
+}
